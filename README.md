@@ -18,8 +18,8 @@ A android software engineer
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LinDevHard&theme=nord&count_private=true&hide=css,html)](https://github.com/LinDevHard)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LinDevHard&show_icons=true&theme=nord&count_private=true)
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LinDevHard&theme=nord&count_private=true&hide=css,html)](https://github.com/LinDevHard)
+![GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=LinDevHard&show_icons=true&theme=nord&count_private=true)
 
 <!--
 **LinDevHard/LinDevHard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
